@@ -1,12 +1,9 @@
 
 |# |Name|Value|
 |---|---|---|
-|1 |Date |yyyy-mm-dd|
-||||
-||||
-||||
-||||
-
-|Date   	  | Time 	   |   User    | Host |	Mode	                 |             Login  |
-|        ---|       ---|        ---|   ---|                     ---|                 ---|
-|YYYY-MM-DD | HH:MM:SS | User Name |  IP  |- SMadmin <br> - StockM |1-Вход <br> 0-Выход |
+|1|Date |yyyy-mm-dd|
+|2|Time|hh:mm:ss|
+|3|User|User Name|
+|4|Host| IP |
+|5|Mode|- SMadmin <br> - StockM|
+|6|Login|1-Вход <br> 0-Выход|
