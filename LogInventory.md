@@ -1,7 +1,7 @@
 
 
 
-|# |Name|Description|Value|
+|# |Name|Value|
 |---|---|---|
 |1 |Date |yyyy-mm-dd|
 |2 |Time |hh:mm:ss |
